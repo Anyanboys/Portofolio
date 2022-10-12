@@ -1,64 +1,67 @@
+# Biodata
+
+<p>Nama : Anyan</p>
+<p>Kelas : Laravel</p>
+<p>Email : <a>anyanboys@gmail.com</a></p>
+
+# Link Deploy
+
+Deploy Heroku : https://PortofolioAnyan.com (Deploy Link Sudah Bisa)
+
+## Portofolio Anyan
+
+Coding Camp Anyanboys (Laravel Project), Kelas Partnership - Project Challenge (Tantangan).<br>
+Anda diminta untuk membuat Portofolio sederhana yang mencakup fitur:
+
+1. Halaman Utama Home
+2. Menampilkan About
+3. Menampilkan Resume
+4. Menampilkan Portofolio
+5. Menampilkan Contact
+
+## Cara Instalasi ke Server Lokal :
+
+-   Follow Github https://github.com/Anyanboys
+-   Star Repo Github Saya
+-   Fork Repo Github Saya
+-   clone project repo saya dengan cara menuliskan pada terminal/cmd/git bash : git clone https://github.com/Anyanboys/Portofolio
+-   lalu masuk ke direktori repo yg sudah di clone dengan ketik lg pada terminal/cmd/git bash <b>cd Portofolio</b>
+-   lalu ketik composser install dan php artisan key generate (jangan lupa salin dan setting file env)
+-   migrate database pada terminal/cmd/git bash
+-   jalankan php artisan db:seed pada terminal/cmd/git bash
+
+Notes : Jika Sudah Menjalankan php artisan serve untuk mengakses alamat portofolio
+
+## Aplikasi Screenshot
+
+<img src="public/assets/img/any-1.jpg" alt="Home">
+<img src="public/assets/img/any-2.jpg" alt="About">
+<img src="public/assets/img/any-3.jpg" alt="Resume">
+<img src="public/assets/img/any-4.jpg" alt="Portofolio">
+<img src="public/assets/img/any-5.jpg" alt="Contact">
+
+## Alat Yang Digunakan Untuk Membuat Web :
+
+A. Hardware :
+Laptop Aspire A314-32-C3X0. Speaksifikasi :
+
+-   Ram : 4GB DD3 L Memory
+-   Prosesor : Intel Core i5-4200U 1.6 GHz with Turbo Boost up to 2.5 GHz
+-   Tipe System : 64 bit
+-   VGA : NVIDIA GEFORCE GT 720M with 2GB Dedicated VRAM
+-   SSD : 128 GB
+
+B. Software :
+
+-   XAMPP
+-   Visual Studio Code
+-   Sublime Merge
+-   Git
+-   PHP 7.4.9
+
+C. Komponen
+
+-   Laravel 8
+-   Bootstrap 4 & 5
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
-
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
-
-## About Laravel
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).

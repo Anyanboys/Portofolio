@@ -34,11 +34,11 @@ Notes : Jika Sudah Menjalankan php artisan serve untuk mengakses alamat portofol
 
 ## Aplikasi Screenshot
 
-<img src="public/assets/img/any-1.jpg" alt="Home">
-<img src="public/assets/img/any-2.jpg" alt="About">
-<img src="public/assets/img/any-3.jpg" alt="Resume">
-<img src="public/assets/img/any-4.jpg" alt="Portofolio">
-<img src="public/assets/img/any-5.jpg" alt="Contact">
+<img src="public/assets/img/anyn-1.jpg" alt="Home">
+<img src="public/assets/img/anyn-2.jpg" alt="About">
+<img src="public/assets/img/anyn-3.jpg" alt="Resume">
+<img src="public/assets/img/anyn-4.jpg" alt="Portofolio">
+<img src="public/assets/img/anyn-5.jpg" alt="Contact">
 
 ## Alat Yang Digunakan Untuk Membuat Web :
 
